@@ -4,7 +4,7 @@ body{
     font-size:12px;
     font-family:"Open Sans";
     background-color:#8b1d1d;
-    background:url(https://cdn-images-1.medium.com/max/800/1*IQqkmPXYZuJViY5p-ymk0A.jpeg) no-repeat bottom right, -moz-linear-gradient(to bottom, #8b1d1d,#502518);
+    background:url(images/background.jpg) no-repeat bottom right, -moz-linear-gradient(to bottom, #8b1d1d,#502518);
     background-size:cover;
 
 }
